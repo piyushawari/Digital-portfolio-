@@ -56,3 +56,21 @@
     </div>
   </section>  <section>
     <h2>Education</h2>
+    <div class="card education">
+      <p><strong>MIT Academy of Engineering, Pune</strong> – Bachelor's of Technology, Computer Engineering (2024 - 2028)</p>
+      <p><strong>Fergusson College</strong> – XII (Science)</p>
+      <p><strong>Priyadarshani School, Bhosari</strong> – X</p>
+    </div>
+  </section>  <section>
+    <h2>Contact</h2>
+    <div class="card contact">
+      <p>Phone: <a href="tel:9370486563">9370486563</a></p>
+      <p>Email: <a href="mailto:piyushawari24@gmail.com">piyushawari24@gmail.com</a></p>
+      <p><a href="https://www.linkedin.com/in/piyush-awari-51a994320" target="_blank">LinkedIn Profile</a></p>
+      <p><a href="https://github.com/piyushawari" target="_blank">GitHub Profile</a></p>
+    </div>
+  </section>  <footer>
+    <p>© 2025 Piyush Awari | Built with passion and code.</p>
+  </footer>
+</body>
+</html>
